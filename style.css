@@ -1,0 +1,57 @@
+body {
+    font-family:"Montserrat","游ゴシック",YuGothic,"ヒラギノ角ゴ ProN W3","Hiragino Kaku Gothic ProN","メイリオ",Meiryo,sans-serif;
+    background-color: #FFFFFF;
+  }
+.form{
+  list-style: none;
+}
+.couponRate{
+  color: #red;
+}
+
+.Box{
+  text-align: center;
+  width: 250px;
+  height: 420px;
+
+  border-radius: 5px;
+  margin-left: 30%;
+}
+ul{
+  display:table;
+  list-style: none;
+  margin-left: -22px;
+}
+.result{
+  width: 240px;
+  height: 60px;
+  margin-left: 17px;
+  font-size: 100%;
+  text-align:right;
+}
+li{
+  display: table-cell;
+}
+li input{
+    text-align: center;
+    font-size: 150%;
+    width: 80px;
+    height: 80px;
+}
+.zero input{
+  position : absolute;
+  font-size: 150%;
+  width: 240px;
+  height: 80px;
+    margin-left: -111px;
+}
+
+.price_many{
+  margin-left: 20px;
+  font-size: 120%;
+}
+#orderBotton{
+  .background: #1d1;
+  font-size: 110%;
+  margin-left: -10px;
+}
